@@ -7,30 +7,16 @@ Bem-vindo ao repositório com as anotações e implementações práticas do liv
 O repositório segue a estrutura do livro, abordando os seguintes tópicos:
 
 1. **Introdução**
-   - A ascensão dos dados
-   - O que é Data Science?
-   - Motivação hipotética: DataSciencester
 2. **Curso Relâmpago de Python**
-   - O básico: funções, listas, dicionários, controle de fluxo.
-   - Conceitos avançados: geradores, programação orientada a objetos.
 3. **Visualizando Dados**
-   - Criação de gráficos com `matplotlib`.
 4. **Álgebra Linear**
-   - Vetores e matrizes, fundamentos para Data Science.
 5. **Estatística**
-   - Tendências centrais, dispersão, correlação, e causalidade.
 6. **Probabilidade**
-   - Probabilidade condicional, Teorema de Bayes, distribuições contínuas.
 7. **Hipótese e Inferência**
-   - Teste de hipóteses, p-values, intervalos de confiança.
 8. **Gradiente Descendente**
-   - Conceitos básicos, estocástico, aplicações.
 9. **Obtendo Dados**
-   - Leitura de arquivos, scraping, uso de APIs.
 10. **Trabalhando com Dados**
-    - Limpeza, transformação, manipulação e redução de dimensionalidade.
 11. **Aprendizado de Máquina**
-    - Modelagem, sobreajuste, compromisso entre polarização e variância.
 12. **K-Vizinhos Mais Próximos**
 13. **Naive Bayes**
 14. **Regressão Linear Simples**
@@ -44,8 +30,7 @@ O repositório segue a estrutura do livro, abordando os seguintes tópicos:
 22. **Sistemas Recomendadores**
 23. **Bases de Dados e SQL**
 24. **MapReduce**
-25. **Pratique Data Science**
-    - Ferramentas, bibliotecas (`NumPy`, `pandas`, `scikit-learn`).
+25. **Vá em Frente e Pratique Data Science**
 
 ## 🗂️ Estrutura do Projeto
 
