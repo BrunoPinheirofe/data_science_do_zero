@@ -49,4 +49,3 @@ Se você encontrou erros ou deseja adicionar melhorias, sinta-se à vontade para
 ---
 
 > Este repositório é baseado no livro **Data Science do Zero** e tem como finalidade única o aprendizado. Todo o conteúdo teórico pertence ao autor Joel Grus.
-
